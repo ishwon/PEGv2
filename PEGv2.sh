@@ -26,7 +26,7 @@ then
         then
             echo "Awesome! You're on 64bit :)"
         else
-            echo "Ahaan! I cannot run on non 64bit machines. Sorry"
+            echo "Ahaan! I cannot run on non 64bit machines. Sorry."
         fi
 else
     echo "Oops! That's not a SUSE machine."
